@@ -6,11 +6,11 @@ Welcome to **PictoBoard Pro**, your ultimate image organizing app designed to he
 
 - **Organize with Boards:** Create multiple **Boards** (categories) to organize your images. Perfect for separating personal photos, work-related images, projects, and more!
   
-- **Unlimited Boards & Images (Pro):** Upgrade to the full version to unlock unlimited Boards and add as many images as you like.
+- **Unlimited Boards & Images (Pro):** Purchase PictoBoard Pro to unlock unlimited Boards and add as many images as you like.
   
 - **Trash Management:** Easily delete unwanted images by moving them to the Trash. You can also permanently delete items from the Trash.
   
-- **iCloud Syncing:** Seamlessly sync your Boards and images across all your devices using iCloud. (Available for Pro users)
+- **iCloud Syncing:** Seamlessly sync your Boards and images across all your devices using iCloud. (Available for Pro users only!)
   
 - **Rename & Rearrange Boards:** Customize your Boards by renaming them and rearranging their order to suit your preferences.
   
@@ -37,10 +37,10 @@ Welcome to **PictoBoard Pro**, your ultimate image organizing app designed to he
 1. **Creating a New Board:**
    - Tap the **+** button at the bottom of the screen.
    - Enter a name for your new Board.
-   - Start adding images by tapping the **Add Image** button.
+   - Start adding images by tapping the squircle **+** button.
 
 2. **Adding Images:**
-   - Within a Board, tap the **+** button.
+   - Within a Board, tap the squircle **+** button.
    - Select images from your photo library to add to the Board.
 
 3. **Managing Boards:**
@@ -63,15 +63,10 @@ Welcome to **PictoBoard Pro**, your ultimate image organizing app designed to he
 
 ### ❓ What is PictoBoard Pro?
 
-PictoBoard Pro is an image organizing app that allows you to create multiple Boards to categorize and manage your photos efficiently. It offers both free and Pro versions with additional features.
-
+PictoBoard Pro is an image organizing app that allows you to create multiple Boards to categorize and manage your photos efficiently.
 ### ❓ How do I create a new Board?
 
 To create a new Board, tap the **+** button at the bottom of the screen, enter a name for your Board, and start adding images.
-
-### ❓ How can I upgrade to the Pro version?
-
-Tap the **+** button to add a new Board. If you've reached the maximum number of Boards in the free version, you'll be prompted to upgrade to the Pro version to unlock unlimited Boards and images.
 
 ### ❓ What happens when I delete a Board?
 
@@ -80,13 +75,6 @@ Deleting a Board moves all its images to the **Trash**. You can permanently dele
 ### ❓ How does iCloud syncing work?
 
 iCloud syncing allows you to back up your Boards and images to your iCloud account, ensuring your data is available across all your Apple devices. This feature is available for Pro users.
-
-### ❓ How do I restore my purchases?
-
-1. Open PictoBoard Pro.
-2. Tap the menu icon (three horizontal lines) in the header.
-3. Select **Restore Purchases**.
-4. Follow the on-screen instructions to restore your Pro features.
 
 ### ❓ Can I rearrange the order of my Boards?
 
